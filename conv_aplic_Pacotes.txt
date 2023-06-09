@@ -1,0 +1,7 @@
+Convenção de aplicabilidade de pacotes
+
+com.hypertech.nameaplication.model...
+
+edu.depaula.primeirasemana
+
+
